@@ -15,7 +15,7 @@ export const resources = {
       "Features Subheading":
         "Explore a vast selection of listings, connect with trusted real estate agents, and embark on a journey to find the home that truly suits your lifestyle.",
       "Feature - Extensive Property Listings":
-        "Explore a diverse range of properties at your fingertips. From urban condos to serene countryside retreats, [Website Name] boasts an extensive collection of listings to cater to your unique preferences. Our intuitive search filters help you narrow down your choices and discover properties that match your criteria effortlessly.",
+        "Explore a diverse range of properties at your fingertips. From urban condos to serene countryside retreats, Profind boasts an extensive collection of listings to cater to your unique preferences. Our intuitive search filters help you narrow down your choices and discover properties that match your criteria effortlessly.",
       "Feature - Personalized Recommendations":
         "Our advanced algorithm understands your preferences and provides personalized property recommendations that align with your tastes and requirements. Say goodbye to endless scrolling and hello to targeted results that make your property hunt enjoyable and efficient.",
       "Feature - Virtual Tours":
@@ -23,11 +23,11 @@ export const resources = {
       "Feature - Expert Real Estate Agents":
         "Connect with experienced real estate professionals who are dedicated to helping you make informed decisions. Our network of agents is ready to guide you through every step of the buying process, providing insights, answering questions, and negotiating on your behalf.",
       "Feature - Neighborhood Insights":
-        "Make an informed choice not only about the property but also the neighborhood it's in. [Website Name] provides valuable insights into local communities, schools, amenities, and more, ensuring you're not just buying a house, but a lifestyle.",
+        "Make an informed choice not only about the property but also the neighborhood it's in. Profind provides valuable insights into local communities, schools, amenities, and more, ensuring you're not just buying a house, but a lifestyle.",
       "Feature - Save Favorites and Alerts":
         "Easily keep track of properties that catch your eye by saving them to your favorites. Plus, set up alerts to stay updated on new listings and price changes, so you never miss an opportunity to find your dream home.",
       "Feature - Seamless Mobile Experience":
-        "Search for properties on the go with our mobile-responsive website. Whether you're commuting or relaxing at home, [Website Name] ensures that your property search remains smooth and accessible from any device.",
+        "Search for properties on the go with our mobile-responsive website. Whether you're commuting or relaxing at home, Profind ensures that your property search remains smooth and accessible from any device.",
       "Trusted by": "Trusted by the world's most richest",
       "Contact description":
         "Start your property journey with Profind today and uncover a world of possibilities. Your dream home is just a click away!",

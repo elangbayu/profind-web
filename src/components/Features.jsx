@@ -1,9 +1,12 @@
 /* eslint-disable react/prop-types */
 import {
-  ArrowPathIcon,
-  CloudArrowUpIcon,
-  FingerPrintIcon,
-  LockClosedIcon,
+  AcademicCapIcon,
+  ArrowsPointingInIcon,
+  BookmarkSquareIcon,
+  BuildingStorefrontIcon,
+  DevicePhoneMobileIcon,
+  HandThumbUpIcon,
+  ViewfinderCircleIcon,
 } from "@heroicons/react/24/outline";
 
 export default function Features({ translate }) {
@@ -11,42 +14,42 @@ export default function Features({ translate }) {
     {
       name: "Extensive Property Listings",
       description: translate("Feature - Extensive Property Listings"),
-      icon: CloudArrowUpIcon,
+      icon: BuildingStorefrontIcon,
     },
     {
       name: "Personalized Recommendations",
       description: translate("Feature - Personalized Recommendations"),
-      icon: LockClosedIcon,
+      icon: HandThumbUpIcon,
     },
     {
       name: "Virtual Tours",
       description: translate("Feature - Virtual Tours"),
-      icon: ArrowPathIcon,
+      icon: ViewfinderCircleIcon,
     },
     {
       name: "Expert Real Estate Agents",
       description: translate("Feature - Expert Real Estate Agents"),
-      icon: FingerPrintIcon,
+      icon: AcademicCapIcon,
     },
     {
       name: "Neighborhood Insights",
       description: translate("Feature - Neighborhood Insights"),
-      icon: FingerPrintIcon,
+      icon: ArrowsPointingInIcon,
     },
     {
       name: "Save Favorites and Alerts",
       description: translate("Feature - Save Favorites and Alerts"),
-      icon: FingerPrintIcon,
+      icon: BookmarkSquareIcon,
     },
     {
       name: "Seamless Mobile Experience",
       description: translate("Feature - Seamless Mobile Experience"),
-      icon: FingerPrintIcon,
+      icon: DevicePhoneMobileIcon,
     },
   ];
 
   return (
-    <div className="bg-white py-24 sm:py-32">
+    <div className="bg-white">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
           <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
